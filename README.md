@@ -1,4 +1,4 @@
-# Scripts_for_Co-occurrence_analysis
+# Scripts for Co-occurrence analysis in ASD
 Analysis Scripts for Co-occurrence of rare variants implicates gene pairs in cytoskeletal pathways and is associated with increased severity for ASD
 
 This repository contains analysis scripts for identifying and characterizing co-occurring rare variants in autism spectrum disorder (ASD) using the RareComb methodology across Korean and European ancestry cohorts.
